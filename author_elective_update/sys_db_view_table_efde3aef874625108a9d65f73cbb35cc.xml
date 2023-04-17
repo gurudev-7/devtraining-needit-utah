@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="DELETE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>100</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 09:06:01</sys_created_on>
+        <sys_id>efde3aef874625108a9d65f73cbb35cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>asmt_metric_result</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_view_table_efde3aef874625108a9d65f73cbb35cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 09:06:01</sys_updated_on>
+        <table>asmt_metric_result</table>
+        <variable_prefix>Met</variable_prefix>
+        <view/>
+        <where_clause/>
+    </sys_db_view_table>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>53e77765dbaa0c9452cec597059619d1</instance_id>
+        <instance_name>dev97612</instance_name>
+        <name>sys_db_view_table_efde3aef874625108a9d65f73cbb35cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table"><sys_db_view_table action="INSERT_OR_UPDATE"><active>true</active><left_join>false</left_join><order>100</order><sys_class_name>sys_db_view_table</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-13 09:06:01</sys_created_on><sys_id>efde3aef874625108a9d65f73cbb35cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>asmt_metric_result</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_db_view_table_efde3aef874625108a9d65f73cbb35cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-13 09:06:01</sys_updated_on><table>asmt_metric_result</table><variable_prefix>Met</variable_prefix><view/><where_clause/></sys_db_view_table></record_update>]]></payload>
+        <payload_hash>-1095969184</payload_hash>
+        <record_name>asmt_metric_result</record_name>
+        <reverted_from/>
+        <source>5830223e87f961108a9d65f73cbb3573</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 09:06:01</sys_created_on>
+        <sys_id>4b6fb223878625108a9d65f73cbb3539</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18779dd56bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 09:06:01</sys_updated_on>
+        <type>View Table</type>
+        <update_guid>8f6fb2237286251013fa1e23be733338</update_guid>
+        <update_guid_history>8f6fb2237286251013fa1e23be733338:-1095969184</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 09:07:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_view_table">sys_db_view_table</sys_db_object>
+        <sys_id>39f37f0a2cde49678dc2a469a0a1e3b9</sys_id>
+        <sys_metadata>efde3aef874625108a9d65f73cbb35cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>asmt_metric_result</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_db_view_table_efde3aef874625108a9d65f73cbb35cc</sys_update_name>
+        <sys_update_version display_value="sys_db_view_table_efde3aef874625108a9d65f73cbb35cc">4b6fb223878625108a9d65f73cbb3539</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 09:07:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
